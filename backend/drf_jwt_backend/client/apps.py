@@ -1,5 +1,5 @@
-from django.apps import AppConfig
+# from django.apps import AppConfig
 
-class ClientConfig(AppConfig):
-    movers_field ='django.db.models.Movers'
-    name ='client'
+# class ClientConfig(AppConfig):
+#     movers_field ='django.db.models.Movers'
+#     name ='client'
